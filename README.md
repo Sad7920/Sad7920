@@ -1,7 +1,7 @@
 # SAD_Codes
 20 • Full Stack Mern Dev🏻‍👨🏻‍💻 Coder | 🔅JavaScript | ⚛️ React.JS
 <h1 align="center">Hi 👋, I'm Shashant Dudam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sad7920&label=Profile%20views&color=0e75b6&style=flat" alt="sad7920" /> </p>
 
