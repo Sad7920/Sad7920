@@ -1,5 +1,5 @@
 # SAD_Codes
-20 • Full Stack Mern Dev🏻‍👨🏻‍💻 Coder | 🔅JavaScript | ⚛️ React.JS
+21 • Front-end Dev🏻‍👨🏻‍💻 Coder | 🔅JavaScript | ⚛️ React.JS
 <h1 align="center">Hi 👋, I'm Shashant Dudam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
