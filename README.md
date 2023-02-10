@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sad7920" alt="sad7920" /></a> </p>
 
-- 🎓 I’m currently Studying [B.Science(Information Technology))](https://vsit.edu.in/)
+- 🎓 I’m currently Studying [M.Science(Computer Science)](https://www.coventry.ac.uk/)
 
 - 🌱 I’m currently learning **Blockchain**
 
