@@ -1,7 +1,7 @@
 # SAD_Codes
-21 • Full-stack Dev🏻‍👨🏻‍💻 Coder | 🔅JavaScript | ⚛️ React.JS
+23 • Full-stack Dev🏻‍👨🏻‍💻 Coder | 🔅JavaScript | ⚛️ React.JS
 <h1 align="center">Hi 👋, I'm Shashant Dudam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer based in the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sad7920&label=Profile%20views&color=0e75b6&style=flat" alt="sad7920" /> </p>
 
