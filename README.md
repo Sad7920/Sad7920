@@ -7,7 +7,7 @@ Hey there! 👋 I'm **Shashant**, a software developer passionate about creating
 ## 🛠️ Tech Stack  
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS  
 - **Backend:** Node.js, Express.js, Python, Flask  
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** MongoDB, PostgreSQL, MySQL 
 - **Tools & Platforms:** AWS, Docker, Git, CI/CD  
 - **Other Interests:** Exploring scalable architectures, experimenting with new frameworks, and optimizing user experiences.  
 
